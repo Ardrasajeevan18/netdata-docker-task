@@ -14,3 +14,8 @@ Run **Netdata** inside a Docker container and access the monitoring dashboard on
      --restart unless-stopped \
      netdata/netdata
 
+2. Verified container is running:
+    docker ps
+
+3. Accessed Netdata dashboard at:
+👉 http://localhost:19999
